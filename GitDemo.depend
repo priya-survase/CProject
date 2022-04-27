@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651043190 source:c:\users\priya\desktop\demo workflow\gitdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+
